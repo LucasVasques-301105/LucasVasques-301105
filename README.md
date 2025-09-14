@@ -80,9 +80,9 @@ Me chamo Lucas Diógenes Landim Vasques, tenho 19 anos e sou natural do Piauí. 
 />
 <br/>
 
-**`Projetos Acadêmicose Profissionais`**
+**`Projetos Acadêmicos Profissionais`**
 
-**`HabilidadeseCompetências`**
+**`Habilidades e Competências`**
 
 **`Recomendações e Testemunhos`**
 
